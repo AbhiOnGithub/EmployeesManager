@@ -1,5 +1,5 @@
 # EmployeesManager
-An ASP.net , React , SQL Azure and Entity Framework based Single Page Application to perform CRUD operations on employees
+An ASP.net Core, React.js , SQL Azure and Entity Framework Core based Single Page Application to perform CRUD operations on employee records
 
 CRUD Operations on App
 ![EMployees App](https://github.com/abhiongithub/EmployeesManager/blob/master/Screens/EmployeeApp.PNG)
